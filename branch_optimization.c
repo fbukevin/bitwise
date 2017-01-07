@@ -38,6 +38,7 @@ This is the reason:
 
 Where to optimize?
 
-  In assembly, if..else.. statements will be compile to branch instruction which cost more stack and time. Bitwise operation can reduce such branch insructions.
-
+  In assembly, if..else.. statements will be compiled to branch instruction which cost more stack and time. 
+Bitwise operation can reduce such branch insructions.
+  
 */
